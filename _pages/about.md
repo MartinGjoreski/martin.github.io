@@ -12,12 +12,12 @@ PhD candidate at the Department of Intelligent Systems at the Jozef Stefan Insti
 
 Education
 ======
-**M.Sc. in Information and Communication Technologies**
+**M.Sc. in Information and Communication Technologies (2014-16)**
 
 Jožef Stefan International Postgraduate School, Ljubljana, Slovenia
 M.Sc. thesis title: “Continuous stress monitoring using wrist device and smartphone”
 
-**B.Sc. in Computer Science and Engineering**
+**B.Sc. in Computer Science and Engineering (2010-14)**
 
 Faculty of Computer Science and Engineering, Ss. Cyril and Methodius, Skopje, Macedonia
 B.Sc. thesis title: "Emotion Classification by Using Features Extracted from Speech"
