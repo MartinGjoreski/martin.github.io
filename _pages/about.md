@@ -42,7 +42,8 @@ ACII 2019 Workshop, Cambridge: http://mlformentalhealth.com/<br/>
 
 News
 ======
-* First place at the “Challenge UP - Multimodal Fall Detection” at the International Joint Conference on Neural Network, Budapest, 2019
-* First place at the “Emteq – Activity Recognition Challenge” at the International Joint Conference on Pervasive and Ubiquitous Computing – UbiComp, London, 2019
-* First place at the “Sussex-Huawei Locomotion Challenge 2019” at the International Joint Conference on Pervasive and Ubiquitous Computing – UbiComp, London 2019
+* We organize an ML challenge congitive laod monitorring from physiological signals as part of the UbiTtention workshop at UbiComp 2020: https://www.ubittention.org/2020/
+* Our team won first place at the “Challenge UP - Multimodal Fall Detection” at the International Joint Conference on Neural Network, Budapest, 2019
+* Our team won first place at the “Emteq – Activity Recognition Challenge” at the International Joint Conference on Pervasive and Ubiquitous Computing – UbiComp, London, 2019
+* Our team won first place at the “Sussex-Huawei Locomotion Challenge 2019” at the International Joint Conference on Pervasive and Ubiquitous Computing – UbiComp, London 2019
 
