@@ -37,7 +37,7 @@ Services
 * Workshop Organising Committee at "UbiTtention 2020: 5th International Workshop on
 Smart & Ambient Notification and Attention Management" UbiComp 2020 Workshop, Cancun: (https://www.ubittention.org/)
 * Program Cometee at "ML for Mental Health - Machine Learning for the Diagnosis and Treatment of Affective Disorders (ML4AD)"
-ACII 2019 Workshop, Cambridge: http://mlformentalhealth.com/<br/>
+ACII 2019 Workshop, Cambridge: (http://mlformentalhealth.com/)<br/>
 
 
 News
