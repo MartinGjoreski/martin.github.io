@@ -10,14 +10,15 @@ redirect_from:
 
 PhD candidate at the Department of Intelligent Systems at the Jozef Stefan Institute. My research field is AI with focus on development of standard machine learning and deep learning methods for sensor data. I am particularly interested in applications in fields such as affective computing, ambient intelligence, mobile healthcare and wearable computing. I am also a teaching assistant at the Faculty of Computer and Information Science, University of Ljubljana. Subjects: Mobile Computing and Platform Based Development.
 
+
 Education
 ======
 **M.Sc. in Information and Communication Technologies (2014-16)**<br/>
-Jožef Stefan International Postgraduate School, Ljubljana, Slovenia
+Jožef Stefan International Postgraduate School, Ljubljana, Slovenia<br/>
 M.Sc. thesis title: “Continuous stress monitoring using wrist device and smartphone”
 
 **B.Sc. in Computer Science and Engineering (2010-14)**<br/>
-Faculty of Computer Science and Engineering, Ss. Cyril and Methodius, Skopje, Macedonia
+Faculty of Computer Science and Engineering, Ss. Cyril and Methodius, Skopje, Macedonia<br/>
 B.Sc. thesis title: "Emotion Classification by Using Features Extracted from Speech"
 
 
@@ -31,12 +32,14 @@ Selected Publications
 * JANKO Vito, GJORESKI Martin et al. Winning the Sussex-Huawei Locomotion-Transportation Recognition Challenge. Human Activity Sensing - Corpus and Applications”. Chapter, Springer Nature, 2020.
 
 
+
 Services
 ======
 * Workshop Organising Committee at "UbiTtention 2020: 5th International Workshop on
 Smart & Ambient Notification and Attention Management" UbiComp 2020 Workshop, Cancun: (https://www.ubittention.org/)
 * Program Cometee at "ML for Mental Health - Machine Learning for the Diagnosis and Treatment of Affective Disorders (ML4AD)"
 ACII 2019 Workshop, Cambridge: http://mlformentalhealth.com/
+
 
 
 News
