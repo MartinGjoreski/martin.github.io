@@ -8,11 +8,40 @@ redirect_from:
   - /about.html
 ---
 
-PhD candidate at the Department of Intelligent Systems at the Jozef Stefan Institute. My research field is AI with focus on development of standard machine learning and deep learning methods for sensor data. I am particularly interested in applications in fields such as affective computing, ambient intelligence, mobile healthcare and wearable computing.
+PhD candidate at the Department of Intelligent Systems at the Jozef Stefan Institute. My research field is AI with focus on development of standard machine learning and deep learning methods for sensor data. I am particularly interested in applications in fields such as affective computing, ambient intelligence, mobile healthcare and wearable computing. I am also a teaching assistant at the Faculty of Computer and Information Science, University of Ljubljana. Subjects: Mobile Computing and Platform Based Development.
 
-A data-driven personal website
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+**M.Sc. in Information and Communication Technologies**
+Jožef Stefan International Postgraduate School, Ljubljana, Slovenia
+M.Sc. thesis title: “Continuous stress monitoring using wrist device and smartphone”
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**B.Sc. in Computer Science and Engineering**
+Faculty of Computer Science and Engineering, Ss. Cyril and Methodius, Skopje, Macedonia
+B.Sc. thesis title: "Emotion Classification by Using Features Extracted from Speech"
+
+
+Selected Publications
+======
+* GJORESKI, Martin, GRADIŠEK, Anton, BUDNA, Borut, GAMS, Matjaž, POGLAJEN, Gregor. Machine Learning and End-to-end Deep Learning for the Detection of Chronic Heart Failure from Heart Sounds. IEEE Access, 2020. 
+* PEJOVIĆ, Veljko, GJORESKI, Martin, ANDERSON, Christoph, DAVID, Klaus, LUŠTREK, Mitja. Towards Telepathic Computing: Cognitive LoadInference for Attention Management in Ubiquitous Systems. IEEE Pervasive Computing, 2019. [pre-print]
+* SIMJANOSKA Monika, GJORESKI, Martin, GAMS, Matjaž, BOGDANOVA, Ana. Non-invasive Blood Pressure Estimation from ECG using Machine Learning. Sensors, 2018.
+* GJORESKI, Martin, LUŠTREK, Mitja, GAMS, Matjaž, GJORESKI, Hristijan. Monitoring Stress with a Wrist Device Using Context. Journal of Biomedical Informatics, 2017.
+* GJORESKI, Martin, GJORESKI, Hristijan, LUŠTREK, Mitja, GAMS, Matjaž. How accurately can your wrist device recognize daily activities and detect. MDPI-Sensors, 2016.
+* JANKO Vito, GJORESKI Martin et al. Winning the Sussex-Huawei Locomotion-Transportation Recognition Challenge. Human Activity Sensing - Corpus and Applications”. Springer Nature.
+
+
+Services
+======
+* Workshop Organising Committee at UbiTtention 2020: 5th International Workshop on
+Smart & Ambient Notification and Attention Management: https://www.ubittention.org/
+* Program Cometee AT ML FOR MENTAL HEALTH - Machine Learning for the Diagnosis and Treatment of Affective Disorders (ML4AD)
+ACII 2019 Workshop: September 3rd, Cambridge (UK): http://mlformentalhealth.com/
+
+
+News
+======
+* First place at the “Challenge UP - Multimodal Fall Detection” at the International Joint Conference on Neural Network, Budapest, 2019)
+* First place at the “Emteq – Activity Recognition Challenge” at the International Joint Conference on Pervasive and Ubiquitous Computing – UbiComp, London, 2019
+* First place at the “Sussex-Huawei Locomotion Challenge 2019” at the International Joint Conference on Pervasive and Ubiquitous Computing – UbiComp, London 2019
 
