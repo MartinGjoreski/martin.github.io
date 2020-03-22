@@ -13,10 +13,12 @@ PhD candidate at the Department of Intelligent Systems at the Jozef Stefan Insti
 Education
 ======
 **M.Sc. in Information and Communication Technologies**
+
 Jožef Stefan International Postgraduate School, Ljubljana, Slovenia
 M.Sc. thesis title: “Continuous stress monitoring using wrist device and smartphone”
 
 **B.Sc. in Computer Science and Engineering**
+
 Faculty of Computer Science and Engineering, Ss. Cyril and Methodius, Skopje, Macedonia
 B.Sc. thesis title: "Emotion Classification by Using Features Extracted from Speech"
 
@@ -24,19 +26,19 @@ B.Sc. thesis title: "Emotion Classification by Using Features Extracted from Spe
 Selected Publications
 ======
 * GJORESKI, Martin, GRADIŠEK, Anton, BUDNA, Borut, GAMS, Matjaž, POGLAJEN, Gregor. Machine Learning and End-to-end Deep Learning for the Detection of Chronic Heart Failure from Heart Sounds. IEEE Access, 2020. 
-* PEJOVIĆ, Veljko, GJORESKI, Martin, ANDERSON, Christoph, DAVID, Klaus, LUŠTREK, Mitja. Towards Telepathic Computing: Cognitive LoadInference for Attention Management in Ubiquitous Systems. IEEE Pervasive Computing, 2019. [pre-print]
+* PEJOVIĆ, Veljko, GJORESKI, Martin, ANDERSON, Christoph, DAVID, Klaus, LUŠTREK, Mitja. Towards Telepathic Computing: Cognitive LoadInference for Attention Management in Ubiquitous Systems. IEEE Pervasive Computing, 2020. [pre-print]
 * SIMJANOSKA Monika, GJORESKI, Martin, GAMS, Matjaž, BOGDANOVA, Ana. Non-invasive Blood Pressure Estimation from ECG using Machine Learning. Sensors, 2018.
 * GJORESKI, Martin, LUŠTREK, Mitja, GAMS, Matjaž, GJORESKI, Hristijan. Monitoring Stress with a Wrist Device Using Context. Journal of Biomedical Informatics, 2017.
 * GJORESKI, Martin, GJORESKI, Hristijan, LUŠTREK, Mitja, GAMS, Matjaž. How accurately can your wrist device recognize daily activities and detect. MDPI-Sensors, 2016.
-* JANKO Vito, GJORESKI Martin et al. Winning the Sussex-Huawei Locomotion-Transportation Recognition Challenge. Human Activity Sensing - Corpus and Applications”. Springer Nature.
+* JANKO Vito, GJORESKI Martin et al. Winning the Sussex-Huawei Locomotion-Transportation Recognition Challenge. Human Activity Sensing - Corpus and Applications”. Chapter, Springer Nature, 2020.
 
 
 Services
 ======
-* Workshop Organising Committee at UbiTtention 2020: 5th International Workshop on
-Smart & Ambient Notification and Attention Management: https://www.ubittention.org/
-* Program Cometee AT ML FOR MENTAL HEALTH - Machine Learning for the Diagnosis and Treatment of Affective Disorders (ML4AD)
-ACII 2019 Workshop: September 3rd, Cambridge (UK): http://mlformentalhealth.com/
+* Workshop Organising Committee at "UbiTtention 2020: 5th International Workshop on
+Smart & Ambient Notification and Attention Management" UbiComp 2020 Workshop, Cancun: (https://www.ubittention.org/)
+* Program Cometee at "ML for Mental Health - Machine Learning for the Diagnosis and Treatment of Affective Disorders (ML4AD)"
+ACII 2019 Workshop, Cambridge: http://mlformentalhealth.com/
 
 
 News
