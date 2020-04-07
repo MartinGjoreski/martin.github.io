@@ -34,6 +34,7 @@ Selected Publications
 
 Services
 ======
+* Guest editor for the special issue "Artificial Intelligence and Ambient Intelligence" at the at MDPI Electronics journal: <https://www.mdpi.com/journal/electronics/special_issues/AIs_electronics>
 * Workshop Organising Committee at "UbiTtention 2020: 5th International Workshop on
 Smart & Ambient Notification and Attention Management" UbiComp 2020 Workshop, Cancun: (<https://www.ubittention.org/2020>)
 * Program Cometee at "ML for Mental Health - Machine Learning for the Diagnosis and Treatment of Affective Disorders (ML4AD)"
