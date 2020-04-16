@@ -15,10 +15,11 @@ Education
 ======
 **PhD candidate in Information and Communication Technologies (2016-Present)**<br/>
 Jožef Stefan International Postgraduate School, Ljubljana, Slovenia<br/>
-PhD thesis title: “A fusion of classical and deep machine learning for mobile health and behavior monitoring with wearable sensors”
+PhD thesis title: “A fusion of classical and deep machine learning for mobile health and behavior monitoring with wearable sensors”<br/>
+
 **M.Sc. in Information and Communication Technologies (2014-16)**<br/>
 Jožef Stefan International Postgraduate School, Ljubljana, Slovenia<br/>
-M.Sc. thesis title: “Continuous stress monitoring using wrist device and smartphone”
+M.Sc. thesis title: “Continuous stress monitoring using wrist device and smartphone”<br/>
 
 **B.Sc. in Computer Science and Engineering (2010-14)**<br/>
 Faculty of Computer Science and Engineering, Ss. Cyril and Methodius, Skopje, Macedonia<br/>
