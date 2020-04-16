@@ -13,6 +13,9 @@ PhD candidate at the Department of Intelligent Systems at the Jozef Stefan Insti
 
 Education
 ======
+**PhD candidate in Information and Communication Technologies (2016-Present)**<br/>
+Jožef Stefan International Postgraduate School, Ljubljana, Slovenia<br/>
+PhD thesis title: “A fusion of classical and deep machine learning for mobile health and behavior monitoring with wearable sensors”
 **M.Sc. in Information and Communication Technologies (2014-16)**<br/>
 Jožef Stefan International Postgraduate School, Ljubljana, Slovenia<br/>
 M.Sc. thesis title: “Continuous stress monitoring using wrist device and smartphone”
