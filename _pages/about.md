@@ -27,6 +27,7 @@ Selected Publications
 * GJORESKI, Martin, GRADIŠEK, Anton, BUDNA, Borut, GAMS, Matjaž, POGLAJEN, Gregor. Machine Learning and End-to-end Deep Learning for the Detection of Chronic Heart Failure from Heart Sounds. IEEE Access, 2020. 
 * PEJOVIĆ, Veljko, GJORESKI, Martin, ANDERSON, Christoph, DAVID, Klaus, LUŠTREK, Mitja. Towards Telepathic Computing: Cognitive LoadInference for Attention Management in Ubiquitous Systems. IEEE Pervasive Computing, 2020. [pre-print]
 * GJORESKI, Martin, GAMS, Matjaž, LUŠTREK, Mitja, GENC Pelin, GARBAS, Jens-Uwe, HASSAN, Teena. Machine Learning and End-to-end Deep Learning for Monitoring Driver Distractions from Physiological and Visual Signals. IEEE Access, 2020. [pre-print].
+* GASHI Shkurta,DI LASCIO, Elena, STANCU, Bianca, DAS SWAIN, Vedant, GJORESKI, Martin, MISHRA Varun, SANTINI Silvia. "Automatic Detection of Artifacts in Electrodermal Activity Sensor Data", IMWUT 2020 [pre-print].
 * SIMJANOSKA Monika, GJORESKI, Martin, GAMS, Matjaž, BOGDANOVA, Ana. Non-invasive Blood Pressure Estimation from ECG using Machine Learning. Sensors, 2018.
 * GJORESKI, Martin, LUŠTREK, Mitja, GAMS, Matjaž, GJORESKI, Hristijan. Monitoring Stress with a Wrist Device Using Context. Journal of Biomedical Informatics, 2017.
 * GJORESKI, Martin, GJORESKI, Hristijan, LUŠTREK, Mitja, GAMS, Matjaž. How accurately can your wrist device recognize daily activities and detect. MDPI-Sensors, 2016.
