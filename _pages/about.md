@@ -27,15 +27,15 @@ B.Sc. thesis title: "Emotion Classification by Using Features Extracted from Spe
 
 Selected Publications
 ======
-* GJORESKI, Martin, JANKO Vito, SLAPNIČAR, Gašper, MLAKAR, Nejc, REŠČIČ, Nina, BIZJAK, Jani, MARINKO, Matej, MLAKAR, Miha, DROBNIC, Vid, LUŠTREK, Mitja, GAMS, Matjaž. Classical and Deep Learning Methods for Recognizing Human Activities and Modes of Transportation with Smartphone Sensors. Information Fusion, 2020 [link](https://martingjoreski.github.io/files/InfFusion.pdf).
-* GJORESKI, Martin, GRADIŠEK, Anton, BUDNA, Borut, GAMS, Matjaž, POGLAJEN, Gregor. Machine Learning and End-to-end Deep Learning for the Detection of Chronic Heart Failure from Heart Sounds. IEEE Access, 2020. 
-* PEJOVIĆ, Veljko, GJORESKI, Martin, ANDERSON, Christoph, DAVID, Klaus, LUŠTREK, Mitja. Towards Telepathic Computing: Cognitive LoadInference for Attention Management in Ubiquitous Systems. IEEE Pervasive Computing, 2020 [pre-print].
-* GJORESKI, Martin, GAMS, Matjaž, LUŠTREK, Mitja, GENC Pelin, GARBAS, Jens-Uwe, HASSAN, Teena. Machine Learning and End-to-end Deep Learning for Monitoring Driver Distractions from Physiological and Visual Signals. IEEE Access, 2020 [pre-print].
+* GJORESKI, Martin, JANKO Vito, SLAPNIČAR, Gašper, MLAKAR, Nejc, REŠČIČ, Nina, BIZJAK, Jani, MARINKO, Matej, MLAKAR, Miha, DROBNIC, Vid, LUŠTREK, Mitja, GAMS, Matjaž. Classical and Deep Learning Methods for Recognizing Human Activities and Modes of Transportation with Smartphone Sensors. Information Fusion, 2020. [link](https://martingjoreski.github.io/files/InfFusion.pdf)
+* GJORESKI, Martin, GRADIŠEK, Anton, BUDNA, Borut, GAMS, Matjaž, POGLAJEN, Gregor. Machine Learning and End-to-end Deep Learning for the Detection of Chronic Heart Failure from Heart Sounds. IEEE Access, 2020. [link](https://martingjoreski.github.io/files/08967080.pdf)
+* PEJOVIĆ, Veljko, GJORESKI, Martin, ANDERSON, Christoph, DAVID, Klaus, LUŠTREK, Mitja. Towards Telepathic Computing: Cognitive LoadInference for Attention Management in Ubiquitous Systems. IEEE Pervasive Computing, 2020. [link](https://martingjoreski.github.io/files/09067018.pdf)
+* GJORESKI, Martin, GAMS, Matjaž, LUŠTREK, Mitja, GENC Pelin, GARBAS, Jens-Uwe, HASSAN, Teena. Machine Learning and End-to-end Deep Learning for Monitoring Driver Distractions from Physiological and Visual Signals. IEEE Access, 2020. [link](https://martingjoreski.github.io/files/09062481.pdf)
 * GASHI, Shkurta, DI LASCIO, Elena, STANCU, Bianca, DAS SWAIN, Vedant, GJORESKI, Martin, MISHRA Varun, SANTINI, Silvia. "Automatic Detection of Artifacts in Electrodermal Activity Sensor Data", IMWUT 2020 [pre-print].
-* SIMJANOSKA Monika, GJORESKI, Martin, GAMS, Matjaž, BOGDANOVA, Ana. Non-invasive Blood Pressure Estimation from ECG using Machine Learning. Sensors, 2018.
-* GJORESKI, Martin, LUŠTREK, Mitja, GAMS, Matjaž, GJORESKI, Hristijan. Monitoring Stress with a Wrist Device Using Context. Journal of Biomedical Informatics, 2017.
-* GJORESKI, Martin, GJORESKI, Hristijan, LUŠTREK, Mitja, GAMS, Matjaž. How accurately can your wrist device recognize daily activities and detect. MDPI-Sensors, 2016.
-* JANKO Vito, GJORESKI Martin et al. Winning the Sussex-Huawei Locomotion-Transportation Recognition Challenge. Human Activity Sensing - Corpus and Applications”. Chapter, Springer Nature, 2020.
+* SIMJANOSKA Monika, GJORESKI, Martin, GAMS, Matjaž, BOGDANOVA, Ana. Non-invasive Blood Pressure Estimation from ECG using Machine Learning. Sensors, 2018. [link](https://martingjoreski.github.io/files/sensors-18-01160.pdf)
+* GJORESKI, Martin, LUŠTREK, Mitja, GAMS, Matjaž, GJORESKI, Hristijan. Monitoring Stress with a Wrist Device Using Context. Journal of Biomedical Informatics, 2017. [link](https://martingjoreski.github.io/files/1-s2.0-S1532046417301855-main.pdf)
+* GJORESKI, Martin, GJORESKI, Hristijan, LUŠTREK, Mitja, GAMS, Matjaž. How accurately can your wrist device recognize daily activities and detect. MDPI-Sensors, 2016. [link](https://martingjoreski.github.io/files/sensors-16-00800.pdf)
+* JANKO Vito, GJORESKI Martin et al. Winning the Sussex-Huawei Locomotion-Transportation Recognition Challenge. Human Activity Sensing - Corpus and Applications”. Chapter, Springer Nature, 2020. [link](https://link.springer.com/chapter/10.1007/978-3-030-13001-5_15)
 
 
 Services
