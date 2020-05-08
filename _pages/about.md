@@ -54,3 +54,10 @@ News
 * Our team won first place at the “Emteq – Activity Recognition Challenge” at the International Joint Conference on Pervasive and Ubiquitous Computing – UbiComp, London, 2019
 * Our team won first place at the “Sussex-Huawei Locomotion Challenge 2019” at the International Joint Conference on Pervasive and Ubiquitous Computing – UbiComp, London 2019
 
+Datasets
+======
+* Labeled datasets for cognitive-load monitoring with wearable device: [link](https://martingjoreski.github.io/files/CogDatasets.zip)
+* The datasets can be used only for research purposes. 
+* Ref: Gjoreski, M., Luštrek, M., & Pejović, V. (2018, October). My Watch Says I'm Busy: Inferring Cognitive Load with Low-Cost Wearables. In Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers (pp. 1234-1240).
+
+
