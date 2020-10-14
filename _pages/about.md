@@ -50,7 +50,7 @@ ACII 2019 Workshop, Cambridge: (<http://mlformentalhealth.com>)<br/>
 News
 ======
 * We received a best paper award at the Slovenian Conference on Artificial Intelligence 2020 (https://is.ijs.si/) [paper link](https://martingjoreski.github.io/files/Gjoreski-Bayesian-IS2020_Final.pdf)
-* Our team won first place at the “Cooking Activity Recognition Challenge” at the ABC Conference, Kitakyushu, 2020:https://abc-research.github.io/cook2020/
+* Our team won first place at the “Cooking Activity Recognition Challenge” at the ABC Conference, Kitakyushu, 2020: https://abc-research.github.io/cook2020/
 * We organize an ML challenge for congitive load monitoring from physiological signals as part of the UbiTtention workshop at UbiComp 2020: <https://www.ubittention.org/2020>
 * Our team won first place at the “Challenge UP - Multimodal Fall Detection” at the International Joint Conference on Neural Network, Budapest, 2019
 * Our team won first place at the “Emteq – Activity Recognition Challenge” at the International Joint Conference on Pervasive and Ubiquitous Computing – UbiComp, London, 2019
