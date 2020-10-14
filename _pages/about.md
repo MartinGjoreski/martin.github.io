@@ -43,15 +43,15 @@ Services
 * Guest editor for the special issue "Artificial Intelligence and Ambient Intelligence" at the at MDPI Electronics journal: <https://www.mdpi.com/journal/electronics/special_issues/AIs_electronics>
 * Workshop Organising Committee at "UbiTtention 2020: 5th International Workshop on
 Smart & Ambient Notification and Attention Management" UbiComp 2020 Workshop, Cancun: (<https://www.ubittention.org/2020>)
-* Program Cometee at "ML for Mental Health - Machine Learning for the Diagnosis and Treatment of Affective Disorders (ML4AD)"
+* Program Committee at "ML for Mental Health - Machine Learning for the Diagnosis and Treatment of Affective Disorders (ML4AD)"
 ACII 2019 Workshop, Cambridge: (<http://mlformentalhealth.com>)<br/>
 
 
 News
 ======
 * We received a best paper award at the Slovenian Conference on Artificial Intelligence 2020: [link](https://martingjoreski.github.io/files/Gjoreski-Bayesian-IS2020_Final.pdf)
-* Our team won first place at the “Cooking Activity Recognition Challenge” at the  ABC Conference, Kitakyushu, 2020:https://abc-research.github.io/cook2020/
-* We organize an ML challenge for congitive laod monitoring from physiological signals as part of the UbiTtention workshop at UbiComp 2020: <https://www.ubittention.org/2020>
+* Our team won first place at the “Cooking Activity Recognition Challenge” at the ABC Conference, Kitakyushu, 2020:https://abc-research.github.io/cook2020/
+* We organize an ML challenge for congitive load monitoring from physiological signals as part of the UbiTtention workshop at UbiComp 2020: <https://www.ubittention.org/2020>
 * Our team won first place at the “Challenge UP - Multimodal Fall Detection” at the International Joint Conference on Neural Network, Budapest, 2019
 * Our team won first place at the “Emteq – Activity Recognition Challenge” at the International Joint Conference on Pervasive and Ubiquitous Computing – UbiComp, London, 2019
 * Our team won first place at the “Sussex-Huawei Locomotion Challenge 2019” at the International Joint Conference on Pervasive and Ubiquitous Computing – UbiComp, London 2019
