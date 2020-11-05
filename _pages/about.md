@@ -13,17 +13,19 @@ PhD candidate at the Department of Intelligent Systems at the Jozef Stefan Insti
 
 Education
 ======
-**PhD candidate in Information and Communication Technologies (2016-Present)**<br/>
+**PhD candidate in Information and Communication Technologies (2016-2020)**<br/>
 Jožef Stefan International Postgraduate School, Ljubljana, Slovenia<br/>
 PhD thesis title: “A fusion of classical and deep machine learning for mobile health and behavior monitoring with wearable sensors”<br/>
+[link](https://www.dropbox.com/s/ax91oreldv1928l/Martin_Gjoreski_PhD%20-%20FINAL.pdf?dl=0)
 
 **M.Sc. in Information and Communication Technologies (2014-16)**<br/>
 Jožef Stefan International Postgraduate School, Ljubljana, Slovenia<br/>
 M.Sc. thesis title: “Continuous stress monitoring using wrist device and smartphone”<br/>
+[link](https://www.researchgate.net/publication/308611962_CONTINUOUS_STRESS_MONITORING_USING_A_WRIST_DEVICE_AND_A_SMARTPHONE)
 
 **B.Sc. in Computer Science and Engineering (2010-14)**<br/>
 Faculty of Computer Science and Engineering, Ss. Cyril and Methodius, Skopje, Macedonia<br/>
-B.Sc. thesis title: "Emotion Classification by Using Features Extracted from Speech"<br/>
+B.Sc. thesis title: "Emotion Classification by Using Features Extracted from Speech"<br/> [link](http://www.informatica.si/index.php/informatica/article/view/719)
 
 Selected Publications
 ======
@@ -70,12 +72,6 @@ Datasets
   * The datasets can be used only for research purposes
   * Laboratory data (pass: cogload2015jsi): [link](https://drive.google.com/file/d/0BxLdQJAk5AoARGRZejZZX2xQUmc/view?usp=sharing)
   * Real-life data (pass: emoStress2015jsi): [link](https://drive.google.com/open?id=15UJnXKo96XN3Lke2H-nxnOksI4pkHih0)
-  * The datasets can be used only for research purposes. 
   * References:
     1. Gjoreski, Martin, Mitja Luštrek, Matjaž Gams, and Hristijan Gjoreski. "Monitoring stress with a wrist device using context." Journal of biomedical informatics 73 (2017): 159-170.
     2. Gjoreski, Martin, Hristijan Gjoreski, Mitja Luštrek, and Matjaž Gams. "Continuous stress detection using a wrist device: in laboratory and real life." In proceedings of the 2016 ACM international joint conference on pervasive and ubiquitous computing: Adjunct, pp. 1185-1193. 2016.
-  
-  
-
-
-
