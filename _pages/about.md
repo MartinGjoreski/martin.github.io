@@ -13,19 +13,20 @@ PhD candidate at the Department of Intelligent Systems at the Jozef Stefan Insti
 
 Education
 ======
-**PhD candidate in Information and Communication Technologies (2016-2020)**<br/>
+**PhD candidate in Information and Communication Technologies (2016-20)**<br/>
 Jožef Stefan International Postgraduate School, Ljubljana, Slovenia<br/>
-PhD thesis title: “A fusion of classical and deep machine learning for mobile health and behavior monitoring with wearable sensors”<br/>
-[link](https://www.dropbox.com/s/ax91oreldv1928l/Martin_Gjoreski_PhD%20-%20FINAL.pdf?dl=0)
+PhD thesis title: “A fusion of classical and deep machine learning for mobile health and behavior monitoring with wearable sensors” [link](https://www.dropbox.com/s/ax91oreldv1928l/Martin_Gjoreski_PhD%20-%20FINAL.pdf?dl=0)
+<br/>
 
 **M.Sc. in Information and Communication Technologies (2014-16)**<br/>
 Jožef Stefan International Postgraduate School, Ljubljana, Slovenia<br/>
-M.Sc. thesis title: “Continuous stress monitoring using wrist device and smartphone”<br/>
-[link](https://www.researchgate.net/publication/308611962_CONTINUOUS_STRESS_MONITORING_USING_A_WRIST_DEVICE_AND_A_SMARTPHONE)
+M.Sc. thesis title: “Continuous stress monitoring using wrist device and smartphone” [link](https://www.researchgate.net/publication/308611962_CONTINUOUS_STRESS_MONITORING_USING_A_WRIST_DEVICE_AND_A_SMARTPHONE)
+<br/>
 
 **B.Sc. in Computer Science and Engineering (2010-14)**<br/>
 Faculty of Computer Science and Engineering, Ss. Cyril and Methodius, Skopje, Macedonia<br/>
-B.Sc. thesis title: "Emotion Classification by Using Features Extracted from Speech"<br/> [link](http://www.informatica.si/index.php/informatica/article/view/719)
+B.Sc. thesis title: "Emotion Classification by Using Features Extracted from Speech" [link](http://www.informatica.si/index.php/informatica/article/view/719)
+<br/>
 
 Selected Publications
 ======
@@ -33,7 +34,7 @@ Selected Publications
 * GJORESKI, Martin, GRADIŠEK, Anton, BUDNA, Borut, GAMS, Matjaž, POGLAJEN, Gregor. Machine Learning and End-to-end Deep Learning for the Detection of Chronic Heart Failure from Heart Sounds. IEEE Access, 2020. [link](https://martingjoreski.github.io/files/08967080.pdf)
 * PEJOVIĆ, Veljko, GJORESKI, Martin, ANDERSON, Christoph, DAVID, Klaus, LUŠTREK, Mitja. Towards Telepathic Computing: Cognitive LoadInference for Attention Management in Ubiquitous Systems. IEEE Pervasive Computing, 2020. [link](https://martingjoreski.github.io/files/09067018.pdf)
 * GJORESKI, Martin, GAMS, Matjaž, LUŠTREK, Mitja, GENC Pelin, GARBAS, Jens-Uwe, HASSAN, Teena. Machine Learning and End-to-end Deep Learning for Monitoring Driver Distractions from Physiological and Visual Signals. IEEE Access, 2020. [link](https://martingjoreski.github.io/files/09062481.pdf)
-* GASHI, Shkurta, DI LASCIO, Elena, STANCU, Bianca, DAS SWAIN, Vedant, GJORESKI, Martin, MISHRA Varun, SANTINI, Silvia. "Automatic Detection of Artifacts in Electrodermal Activity Sensor Data", IMWUT 2020 [pre-print].
+* GASHI, Shkurta, DI LASCIO, Elena, STANCU, Bianca, DAS SWAIN, Vedant, GJORESKI, Martin, MISHRA Varun, SANTINI, Silvia. Automatic Detection of Artifacts in Electrodermal Activity Sensor Data. IMWUT 2020. [link](https://dl.acm.org/doi/10.1145/3397316)
 * SIMJANOSKA Monika, GJORESKI, Martin, GAMS, Matjaž, BOGDANOVA, Ana. Non-invasive Blood Pressure Estimation from ECG using Machine Learning. Sensors, 2018. [link](https://martingjoreski.github.io/files/sensors-18-01160.pdf)
 * GJORESKI, Martin, LUŠTREK, Mitja, GAMS, Matjaž, GJORESKI, Hristijan. Monitoring Stress with a Wrist Device Using Context. Journal of Biomedical Informatics, 2017. [link](https://martingjoreski.github.io/files/1-s2.0-S1532046417301855-main.pdf)
 * GJORESKI, Martin, GJORESKI, Hristijan, LUŠTREK, Mitja, GAMS, Matjaž. How accurately can your wrist device recognize daily activities and detect. MDPI-Sensors, 2016. [link](https://martingjoreski.github.io/files/sensors-16-00800.pdf)
