@@ -13,7 +13,13 @@ PhD candidate at the Department of Intelligent Systems at the Jozef Stefan Insti
 
 Education
 ======
-**PhD candidate in Information and Communication Technologies (2016-20)**<br/>
+**Postdoc (2020-)**<br/>
+Faculty of Informatics at Università della Svizzera italiana (USI), Lugano, Switzerland<br/>
+Research group of prof. Marc Langheinrich and prof. Silvia Santini<br/>
+Main project: BASE – Behavioral Analytics for Smart Environments
+<br/>
+
+**PhD in Information and Communication Technologies (2016-20)**<br/>
 Jožef Stefan International Postgraduate School, Ljubljana, Slovenia<br/>
 PhD thesis title: “A fusion of classical and deep machine learning for mobile health and behavior monitoring with wearable sensors” [link](https://www.dropbox.com/s/ax91oreldv1928l/Martin_Gjoreski_PhD%20-%20FINAL.pdf?dl=0)
 <br/>
