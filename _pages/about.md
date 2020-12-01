@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-PhD candidate at the Department of Intelligent Systems at the Jozef Stefan Institute. My research field is AI with focus on development of standard machine learning and deep learning methods for sensor data. I am particularly interested in applications in fields such as affective computing, ambient intelligence, mobile healthcare and wearable computing. I am also a teaching assistant at the Faculty of Computer and Information Science, University of Ljubljana. Subjects: Mobile Computing and Platform Based Development.<br/>
+I am a postdoc researcher at the Faculty of Informatics, Università della Svizzera italiana (USI). My research field is AI with focus on development of standard machine learning and deep learning methods for sensor data. I am particularly interested in applications in fields such as mobile and wearable computing, affective computing, and mobile healthcare. I did my at the Department of Intelligent Systems at the Jozef Stefan Institute.  I was also a teaching assistant at the Faculty of Computer and Information Science, University of Ljubljana. 
 
 
 Education
@@ -37,6 +36,7 @@ B.Sc. thesis title: "Emotion Classification by Using Features Extracted from Spe
 Selected Publications
 ======
 * GJORESKI, Martin, JANKO Vito, SLAPNIČAR, Gašper, MLAKAR, Nejc, REŠČIČ, Nina, BIZJAK, Jani, MARINKO, Matej, MLAKAR, Miha, DROBNIC, Vid, LUŠTREK, Mitja, GAMS, Matjaž. Classical and Deep Learning Methods for Recognizing Human Activities and Modes of Transportation with Smartphone Sensors. Information Fusion, 2020. [link](https://martingjoreski.github.io/files/InfFusion.pdf)
+* DZIEŻYC, Maciej, GJORESKI, Martin, KAZIENKO, Przemysław, SAGANOWSKI, Stanisław, GAMS, Matjaž. Can we ditch feature engineering? End-to-end deep learning for affect recognition from physiological sensor data. Sensors, 2020 [link] (https://www.mdpi.com/1424-8220/20/22/6535) [code](https://github.com/Emognition/dl-4-tsc)
 * GJORESKI, Martin, GRADIŠEK, Anton, BUDNA, Borut, GAMS, Matjaž, POGLAJEN, Gregor. Machine Learning and End-to-end Deep Learning for the Detection of Chronic Heart Failure from Heart Sounds. IEEE Access, 2020. [link](https://martingjoreski.github.io/files/08967080.pdf)
 * PEJOVIĆ, Veljko, GJORESKI, Martin, ANDERSON, Christoph, DAVID, Klaus, LUŠTREK, Mitja. Towards Telepathic Computing: Cognitive LoadInference for Attention Management in Ubiquitous Systems. IEEE Pervasive Computing, 2020. [link](https://martingjoreski.github.io/files/09067018.pdf)
 * GJORESKI, Martin, GAMS, Matjaž, LUŠTREK, Mitja, GENC Pelin, GARBAS, Jens-Uwe, HASSAN, Teena. Machine Learning and End-to-end Deep Learning for Monitoring Driver Distractions from Physiological and Visual Signals. IEEE Access, 2020. [link](https://martingjoreski.github.io/files/09062481.pdf)
