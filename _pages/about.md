@@ -7,17 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoc researcher at the Faculty of Informatics, Università della Svizzera italiana (USI). My research field is AI with focus on development of standard machine learning and deep learning methods for sensor data. I am particularly interested in applications in fields such as mobile and wearable computing, affective computing, and mobile healthcare. I did my at the Department of Intelligent Systems at the Jozef Stefan Institute.  I was also a teaching assistant at the Faculty of Computer and Information Science, University of Ljubljana. 
+I am a postdoc researcher at the Faculty of Informatics, Università della Svizzera italiana (USI), in the reseearch group of Research group of prof. Marc Langheinrich and prof. Silvia Santini. My research field is AI with focus on development of standard machine learning and deep learning methods for sensor data. I am particularly interested in applications in fields such as mobile and wearable computing, bhavioural analytics, affective computing, and mobile healthcare. I did my PhD at the Department of Intelligent Systems at the Jozef Stefan Institute. I was also a teaching assistant at the Faculty of Computer and Information Science, University of Ljubljana. 
 
 
 Education
 ======
-**Postdoc (2020-)**<br/>
-Faculty of Informatics at Università della Svizzera italiana (USI), Lugano, Switzerland<br/>
-Research group of prof. Marc Langheinrich and prof. Silvia Santini<br/>
-Main project: BASE – Behavioral Analytics for Smart Environments
-<br/>
-
 **PhD in Information and Communication Technologies (2016-20)**<br/>
 Jožef Stefan International Postgraduate School, Ljubljana, Slovenia<br/>
 PhD thesis title: “A fusion of classical and deep machine learning for mobile health and behavior monitoring with wearable sensors” [link](https://www.dropbox.com/s/ax91oreldv1928l/Martin_Gjoreski_PhD%20-%20FINAL.pdf?dl=0)
