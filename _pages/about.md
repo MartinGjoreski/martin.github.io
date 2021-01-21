@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoc researcher at the Faculty of Informatics, Università della Svizzera italiana (USI), in the reseearch group of Research group of prof. Marc Langheinrich and prof. Silvia Santini. My research field is AI with focus on development of standard machine learning and deep learning methods for sensor data. I am particularly interested in applications in fields such as mobile and wearable computing, bhavioural analytics, affective computing, and mobile healthcare. I did my PhD at the Department of Intelligent Systems at the Jozef Stefan Institute. I was also a teaching assistant at the Faculty of Computer and Information Science, University of Ljubljana. 
+I am a postdoc researcher at the Faculty of Informatics, Università della Svizzera italiana (USI), in the reseearch group of Research group of prof. Marc Langheinrich and prof. Silvia Santini. My research field is AI with focus on development of standard machine learning and deep learning methods for sensor data. I am particularly interested in applications in fields such as mobile and wearable computing, behavioural analytics, affective computing, and mobile healthcare. I did my PhD at the Department of Intelligent Systems at the Jozef Stefan Institute. I was also a teaching assistant at the Faculty of Computer and Information Science, University of Ljubljana. 
 
 
 Education
