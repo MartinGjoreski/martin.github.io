@@ -62,7 +62,7 @@ News
 
 Datasets
 ======
-* Labeled datasets for cognitive-load monitoring with wearable device: [link](https://martingjoreski.github.io/files/CogDatasets.zip)
+* Labeled datasets for cognitive-load monitoring with wearable device: [link](https://martingjoreski.github.io/files/CogDatasets.rar)
   * The datasets can be used only for research purposes
   * References:
     1. Gjoreski, Martin, Tine Kolenik, Timotej Knez, Mitja Luštrek, Matjaž Gams, Hristijan Gjoreski, and Veljko Pejović. "Datasets for Cognitive Load Inference Using Wearable Sensors and Psychological Traits." Applied Sciences 10, no. 11 (2020): 3843.
