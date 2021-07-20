@@ -31,7 +31,7 @@ Selected Publications
 ======
 * GJORESKI, Martin, JANKO Vito, SLAPNIČAR, Gašper, MLAKAR, Nejc, REŠČIČ, Nina, BIZJAK, Jani, MARINKO, Matej, MLAKAR, Miha, DROBNIC, Vid, LUŠTREK, Mitja, GAMS, Matjaž. Classical and Deep Learning Methods for Recognizing Human Activities and Modes of Transportation with Smartphone Sensors. Information Fusion, 2020. [link](https://martingjoreski.github.io/files/InfFusion.pdf)
 * Janko, Vito; Slapničar, Gašper; Dovgan, Erik; Reščič, Nina; Kolenik, Tine; Gjoreski, Martin; Smerkol, Maj; Gams, Matjaž; Luštrek, Mitja. 2021. "Machine Learning for Analyzing Non-Countermeasure Factors Affecting Early Spread of COVID-19" Int. J. Environ. Res. Public Health 18, no. 13: 6750 [link](https://www.mdpi.com/1660-4601/18/13/6750)
-* PILTAVER, Rok, LUŠTREK, Mitja, DŽEROSKI Sašo, GJORESKI Martin, GAMS Matjaž. Learning comprehensible and accurate hybrid trees. Expert Systems with Applications, 164, 113980, 2020. [link](https://pc.inf.usi.ch/wp-content/cache/mendeley-file-cache/2ea79c06-8923-3454-93b8-25f50f2dd060.pdf)
+* PILTAVER, Rok, LUŠTREK, Mitja, DŽEROSKI Sašo, GJORESKI Martin, GAMS Matjaž. Learning comprehensible and accurate hybrid trees. Expert Systems with Applications, 164, 113980, 2020. [link](https://martingjoreski.github.io/files/Piltaver-Learning_comprehensible_and_accurate_hybrid_trees-ESWA-21.pdf)
 * DZIEŻYC, Maciej, GJORESKI, Martin, KAZIENKO, Przemysław, SAGANOWSKI, Stanisław, GAMS, Matjaž. Can we ditch feature engineering? End-to-end deep learning for affect recognition from physiological sensor data. Sensors, 2020. [link](https://www.mdpi.com/1424-8220/20/22/6535), [code](https://github.com/Emognition/dl-4-tsc)
 * GJORESKI, Martin, GRADIŠEK, Anton, BUDNA, Borut, GAMS, Matjaž, POGLAJEN, Gregor. Machine Learning and End-to-end Deep Learning for the Detection of Chronic Heart Failure from Heart Sounds. IEEE Access, 2020. [link](https://martingjoreski.github.io/files/08967080.pdf)
 * PEJOVIĆ, Veljko, GJORESKI, Martin, ANDERSON, Christoph, DAVID, Klaus, LUŠTREK, Mitja. Towards Telepathic Computing: Cognitive LoadInference for Attention Management in Ubiquitous Systems. IEEE Pervasive Computing, 2020. [link](https://martingjoreski.github.io/files/09067018.pdf)
@@ -54,6 +54,7 @@ ACII 2019 Workshop, Cambridge: (<http://mlformentalhealth.com>)<br/>
 
 News
 ======
+* I was awarded the [“Jožef Stefan golden emblem”](https://www.ijs.si/ijsw/Golden%20Emblem) (Slovenian: Zlati znak Jožefa Stefana) for outstanding PhD thesis in 2020. 
 * We received a best paper award at the Slovenian Conference on Artificial Intelligence 2020 (https://is.ijs.si/) [paper link](https://martingjoreski.github.io/files/Gjoreski-Bayesian-IS2020_Final.pdf)
 * Our team won first place at the “Cooking Activity Recognition Challenge” at the ABC Conference, Kitakyushu, 2020: https://abc-research.github.io/cook2020/
 * We organize an ML challenge for congitive load monitoring from physiological signals as part of the UbiTtention workshop at UbiComp 2020: <https://www.ubittention.org/2020>
