@@ -27,8 +27,9 @@ Faculty of Computer Science and Engineering, Ss. Cyril and Methodius, Skopje, Ma
 B.Sc. thesis title: "Emotion Classification by Using Features Extracted from Speech" [link](http://www.informatica.si/index.php/informatica/article/view/719)
 <br/>
 
-Selected Publications
+Selected Publications 
 ======
+Full list available on [Google Scholar](https://scholar.google.com/citations?user=b6NoAQMAAAAJ&hl=en)
 * GJORESKI, Martin, JANKO Vito, SLAPNIČAR, Gašper, MLAKAR, Nejc, REŠČIČ, Nina, BIZJAK, Jani, MARINKO, Matej, MLAKAR, Miha, DROBNIC, Vid, LUŠTREK, Mitja, GAMS, Matjaž. Classical and Deep Learning Methods for Recognizing Human Activities and Modes of Transportation with Smartphone Sensors. Information Fusion, 2020. [link](https://martingjoreski.github.io/files/InfFusion.pdf)
 * Janko, Vito; Slapničar, Gašper; Dovgan, Erik; Reščič, Nina; Kolenik, Tine; Gjoreski, Martin; Smerkol, Maj; Gams, Matjaž; Luštrek, Mitja. 2021. "Machine Learning for Analyzing Non-Countermeasure Factors Affecting Early Spread of COVID-19" Int. J. Environ. Res. Public Health 18, no. 13: 6750 [link](https://www.mdpi.com/1660-4601/18/13/6750)
 * PILTAVER, Rok, LUŠTREK, Mitja, DŽEROSKI Sašo, GJORESKI Martin, GAMS Matjaž. Learning comprehensible and accurate hybrid trees. Expert Systems with Applications, 164, 113980, 2020. [link](https://martingjoreski.github.io/files/Piltaver-Learning_comprehensible_and_accurate_hybrid_trees-ESWA-21.pdf)
@@ -41,7 +42,6 @@ Selected Publications
 * GJORESKI, Martin, LUŠTREK, Mitja, GAMS, Matjaž, GJORESKI, Hristijan. Monitoring Stress with a Wrist Device Using Context. Journal of Biomedical Informatics, 2017. [link](https://martingjoreski.github.io/files/1-s2.0-S1532046417301855-main.pdf)
 * GJORESKI, Martin, GJORESKI, Hristijan, LUŠTREK, Mitja, GAMS, Matjaž. How accurately can your wrist device recognize daily activities and detect. MDPI-Sensors, 2016. [link](https://martingjoreski.github.io/files/sensors-16-00800.pdf)
 * JANKO Vito, GJORESKI Martin et al. Winning the Sussex-Huawei Locomotion-Transportation Recognition Challenge. Human Activity Sensing - Corpus and Applications”. Chapter, Springer Nature, 2020. [link](https://link.springer.com/chapter/10.1007/978-3-030-13001-5_15)
-
 
 Services
 ======
