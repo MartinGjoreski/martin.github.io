@@ -7,6 +7,8 @@ author_profile: true
 
 Masters students
 ======
+- Piotr Romachov. Explainable AI through counterfactual explanations. 2022. Department of Computer Science, Universidad de Buenos Aires (exchange student at USI). Co-supervision with prof. Vanina Martinez and prof. Marc Langheinrich. 
+- Castro Elizondo Jose Ezequiel. Federated human mobility modeling. 2021. Faculty of informatics. Università della svizzera italiana. Co-supervision with prof. Marc Langheinrich.
 - Alessandro Pogliaghi. Multi-task Learning for the Joint Recognition of User Identity and Affective States. 2021. Faculty of informatics. Università della svizzera italiana.  Co-supervision with prof. Silvia Santini and dr. Elena Di Lascio
 - Jannis Strecker. Understanding Purpose-Driven Use ofInterpersonal Location Sharingin Mobile Apps. 2021. Faculty of informatics. Università della svizzera italiana. Co-supervision with prof. Marc Langheinrich.
 
