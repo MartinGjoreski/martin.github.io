@@ -56,7 +56,7 @@ ACII 2019 Workshop, Cambridge: (<http://mlformentalhealth.com>)<br/>
 
 News
 ======
-* Our paper [Toward cognitive load inference for attention management in ubiquitous systems](https://martingjoreski.github.io/files/09067018.pdf) has won the 2020 Best-Paper Runner-up Award from [“IEEE Pervasive Computing Magazine!”](https://www.linkedin.com/feed/update/urn:li:activity:6929072364001357825/). 
+* Our paper [Toward cognitive load inference for attention management in ubiquitous systems](https://martingjoreski.github.io/files/09067018.pdf) has won the 2020 Best-Paper Runner-up Award from [“IEEE Pervasive Computing Magazine!”](https://www.computer.org/publications/best-paper-award-winners). 
 * I was awarded the [“Jožef Stefan golden emblem”](https://www.ijs.si/ijsw/Golden%20Emblem) (Slovenian: Zlati znak Jožefa Stefana) for outstanding PhD thesis in 2020. 
 * We received a best paper award at the Slovenian Conference on Artificial Intelligence 2020 (https://is.ijs.si/) [paper link](https://martingjoreski.github.io/files/Gjoreski-Bayesian-IS2020_Final.pdf)
 * Our team won first place at the “Cooking Activity Recognition Challenge” at the ABC Conference, Kitakyushu, 2020: https://abc-research.github.io/cook2020/
