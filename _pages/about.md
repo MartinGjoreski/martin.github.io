@@ -30,6 +30,7 @@ B.Sc. thesis title: "Emotion Classification by Using Features Extracted from Spe
 Selected Publications 
 ======
 Full list available on [Google Scholar](https://scholar.google.com/citations?user=b6NoAQMAAAAJ&hl=en)
+* Piotr Romashov, Martin Gjoreski, Kacper Sokol, Vanina Martinez, and Marc Langheinrich. "BayCon: Model-agnostic Bayesian Counterfactual Generator." IJCAI 2022. [link](https://www.ijcai.org/proceedings/2022/104), [code](https://github.com/piotromashov/baycon)
 * Stankoski, Simon, Ivana Kiprijanovska, Ifigeneia Mavridou, Charles Nduka, Hristijan Gjoreski, and Martin Gjoreski. "Breathing Rate Estimation from Head-Worn Photoplethysmography Sensor Data Using Machine Learning." Sensors 22, no. 6 (2022): 2079. [link](https://www.mdpi.com/1424-8220/22/6/2079)
 *  Gjoreski, Martin, Bhargavi Mahesh, Tine Kolenik, Jens Uwe-Garbas, Dominik Seuss, Hristijan Gjoreski, Mitja Luštrek, Matjaž Gams, and Veljko Pejović. "Cognitive Load Monitoring With Wearables–Lessons Learned From a Machine Learning Challenge." IEEE Access 9 (2021): 103325-103336. [link](https://ieeexplore.ieee.org/abstract/document/9466833/)
 * Gjoreski, Martin, Vito Janko, Gašper Slapničar, Miha Mlakar, Nina Reščič, Jani Bizjak, Vid Drobnič et al. "Classical and deep learning methods for recognizing human activities and modes of transportation with smartphone sensors." Information Fusion 62 (2020): 47-62. [link](https://martingjoreski.github.io/files/InfFusion.pdf)
@@ -47,6 +48,7 @@ Full list available on [Google Scholar](https://scholar.google.com/citations?use
 
 Services
 ======
+* Posters & Demos Chair at Ubicomp 2022: https://www.ubicomp.org/ubicomp2022/organizing-committee/
 * Guest editor for the special issue "Artificial Intelligence and Ambient Intelligence" at the at MDPI Electronics journal: <https://www.mdpi.com/journal/electronics/special_issues/AIs_electronics>
 * Workshop Organising Committee at "UbiTtention 2020: 5th International Workshop on
 Smart & Ambient Notification and Attention Management" UbiComp 2020 Workshop, Cancun: (<https://www.ubittention.org/2020>)
