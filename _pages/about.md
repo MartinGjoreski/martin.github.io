@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoc researcher at the Faculty of Informatics, Università della Svizzera italiana (USI), in the [research group](https://pc.inf.usi.ch/) of prof. Marc Langheinrich. My research field is AI with a focus on the development of standard machine learning and deep learning methods for sensor data. I am particularly interested in applications in fields such as mobile and wearable computing, behavioural analytics, affective computing, and mobile healthcare. From 2014 to 2020, I was part of the [Department of Intelligent Systems](https://dis.ijs.si/) at the Jozef Stefan Institute, where I did my MSc and PhD studies under the supervision of prof. Matjaz Gams and prof. Mitja Lustrek. In the years 2019 and 2020, was also a teaching assistant at the Faculty of Computer and Information Science, University of Ljubljana. More details about my teaching activities are available [here.](https://martingjoreski.github.io/teaching/) 
+I am a postdoc researcher at the Faculty of Informatics, Università della Svizzera italiana (USI), in the [research group](https://pc.inf.usi.ch/) of prof. Marc Langheinrich. My research field is AI with a focus on the development of machine learning, federated learning, and explainable AI methods for sensor data. I am particularly interested in applications in fields such as mobile and wearable computing, behavioural analytics, affective computing, mobile healthcare. Until 2021 I was part of the [Department of Intelligent Systems](https://dis.ijs.si/) at the Jozef Stefan Institute, where I did my MSc and PhD studies under the supervision of prof. Matjaz Gams and prof. Mitja Lustrek. In the period 2019 - 2020, I was also a teaching assistant at the Faculty of Computer and Information Science, University of Ljubljana. More details about my teaching activities are available [here.](https://martingjoreski.github.io/teaching/) 
 
 
 Education
@@ -31,6 +31,9 @@ Selected Publications
 ======
 Full list available on [Google Scholar](https://scholar.google.com/citations?user=b6NoAQMAAAAJ&hl=en)
 * Piotr Romashov, Martin Gjoreski, Kacper Sokol, Vanina Martinez, and Marc Langheinrich. "BayCon: Model-agnostic Bayesian Counterfactual Generator." IJCAI 2022. [link](https://www.ijcai.org/proceedings/2022/104), [code](https://github.com/piotromashov/baycon)
+* Martin Gjoreski, Matías Laporte, and Marc Langheinrich. "Toward privacy-aware federated analytics of cohorts for smart mobility." Frontiers in Computer Science 4 (2022). [link](https://www.frontiersin.org/articles/10.3389/fcomp.2022.891206/full)
+* Jose Ezequiel Castro Elizondo, Martin Gjoreski, and Marc Langheinrich. "Federated Learning for Privacy-Aware Human Mobility Modeling." Frontiers in Artificial Intelligence 5 (2022): 867046. [link](https://www.frontiersin.org/articles/10.3389/frai.2022.867046/full)
+*   Martin, Gjoreski, Ivana Kiprijanovska, Simon Stankoski, Ifigeneia Mavridou, M. John Broulidakis, Hristijan Gjoreski, and Charles Nduka. "Facial EMG sensing for monitoring affect using a wearable device." Scientific Reports 12, no. 1 (2022): 16876. [link](https://www.nature.com/articles/s41598-022-21456-1)
 * Stankoski, Simon, Ivana Kiprijanovska, Ifigeneia Mavridou, Charles Nduka, Hristijan Gjoreski, and Martin Gjoreski. "Breathing Rate Estimation from Head-Worn Photoplethysmography Sensor Data Using Machine Learning." Sensors 22, no. 6 (2022): 2079. [link](https://www.mdpi.com/1424-8220/22/6/2079)
 *  Gjoreski, Martin, Bhargavi Mahesh, Tine Kolenik, Jens Uwe-Garbas, Dominik Seuss, Hristijan Gjoreski, Mitja Luštrek, Matjaž Gams, and Veljko Pejović. "Cognitive Load Monitoring With Wearables–Lessons Learned From a Machine Learning Challenge." IEEE Access 9 (2021): 103325-103336. [link](https://ieeexplore.ieee.org/abstract/document/9466833/)
 * Gjoreski, Martin, Vito Janko, Gašper Slapničar, Miha Mlakar, Nina Reščič, Jani Bizjak, Vid Drobnič et al. "Classical and deep learning methods for recognizing human activities and modes of transportation with smartphone sensors." Information Fusion 62 (2020): 47-62. [link](https://martingjoreski.github.io/files/InfFusion.pdf)
@@ -58,7 +61,7 @@ ACII 2019 Workshop, Cambridge: (<http://mlformentalhealth.com>)<br/>
 
 News
 ======
-* Our paper [Toward cognitive load inference for attention management in ubiquitous systems](https://martingjoreski.github.io/files/09067018.pdf) has won the 2020 Best-Paper Runner-up Award from [“IEEE Pervasive Computing Magazine!”](https://www.computer.org/publications/best-paper-award-winners). 
+* Our paper [Toward cognitive load inference for attention management in ubiquitous systems](https://martingjoreski.github.io/files/09067018.pdf) won the 2020 Best-Paper Runner-up Award from [“IEEE Pervasive Computing Magazine!”](https://www.computer.org/publications/best-paper-award-winners). 
 * I was awarded the [“Jožef Stefan golden emblem”](https://www.ijs.si/ijsw/Golden%20Emblem) (Slovenian: Zlati znak Jožefa Stefana), signifying an outstanding PhD thesis in Slovenia for the year 2020. 
 * We received a best paper award at the Slovenian Conference on Artificial Intelligence 2020 (https://is.ijs.si/) [paper link](https://martingjoreski.github.io/files/Gjoreski-Bayesian-IS2020_Final.pdf)
 * Our team won first place at the “Cooking Activity Recognition Challenge” at the ABC Conference, Kitakyushu, 2020: https://abc-research.github.io/cook2020/
