@@ -30,6 +30,8 @@ B.Sc. thesis title: "Emotion Classification by Using Features Extracted from Spe
 Selected Publications 
 ======
 Full list available on [Google Scholar](https://scholar.google.com/citations?user=b6NoAQMAAAAJ&hl=en)
+* Riccardo Corrias, Martin Gjoreski, and Marc Langheinrich. "Exploring Transformer and Graph Convolutional Networks for Human Mobility Modeling." Sensors 23, no. 10: 4803. [link](https://www.mdpi.com/1424-8220/23/10/4803), [code](
+https://github.com/corrir/Transformers-and-Graph-Convolutional-Networks-for-Human-Mobility-Modeling)
 * Ivan Fontana, Marc Langheinrich, and Martin Gjoreski. "GANs for Privacy-Aware Mobility Modeling." IEEE Access 11 (2023): 29250-29262.  [link](https://ieeexplore.ieee.org/document/10078885), [code](
 https://github.com/fonticode/Privacy-aware-Mobility-Modeling)
 * Piotr Romashov, Martin Gjoreski, Kacper Sokol, Vanina Martinez, and Marc Langheinrich. "BayCon: Model-agnostic Bayesian Counterfactual Generator." IJCAI 2022. [link](https://www.ijcai.org/proceedings/2022/104), [code](https://github.com/piotromashov/baycon)
