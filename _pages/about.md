@@ -19,19 +19,19 @@ More details about my teaching activities are available [here.](https://martingj
 Funding
 ======
 **XAI-PAC: Towards Explainable and Private Affective Computing**<br/>
-Source: Swiss National Science Foundation (SNSF)**<br/>
+Source: Swiss National Science Foundation (SNSF)<br/>
 Duration: 2024-2028<br/>
 Role: Primary investigator<br/>
 
 **SmartCHANGE: AI-based long-term health risk evaluation for driving behaviour change strategies in children and youth**<br/>
-Source: Horizon Europe and SERI (Swiss State Secretariat for Education, Research and Innovation) **<br/>
+Source: Horizon Europe and SERI (Swiss State Secretariat for Education, Research and Innovation)<br/>
 Duration: 2024-2028<br/>
-Role: Scientific Collaborator<br/>
+Role: Scientific collaborator<br/>
 
 **TRUST-ME: TRUstworthy enhancement of job SaTisfaction and productivity using Micro-sensing in work Environments**<br/>
-Source: Swiss National Science Foundation (SNSF)**<br/>
+Source: Swiss National Science Foundation (SNSF)<br/>
 Duration: 2024-2027<br/>
-Role: Scientific Collaborator<br/>
+Role: Scientific collaborator<br/>
 
 
 Education
