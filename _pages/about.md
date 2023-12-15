@@ -7,13 +7,32 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Ambizione Fellow funded by the Swiss National Science Foundation (SNSF) and hold the position of Senior Scientific Collaborator at the [People-Centered Computing Lab](https://pc.inf.usi.ch/). This lab is headed by Professors Marc Langheinrich and Silvia Santini within the Faculty of Informatics at the Università della Svizzera italiana (USI) in Switzerland. 
+
+I am an Ambizione Fellow funded by the Swiss National Science Foundation (SNSF) and hold the position of Scientific Collaborator at the [People-Centered Computing Lab](https://pc.inf.usi.ch/). This lab is headed by Professors Marc Langheinrich and Silvia Santini within the Faculty of Informatics at the Università della Svizzera italiana (USI) in Switzerland. 
 
 My primary research focus is on Artificial Intelligence (AI), specifically in the areas of machine learning, federated learning, and explainable AI (XAI). I apply these concepts to various domains such as wearable computing, affective computing, and digital healthcare.
 
 I earned my Ph.D. in Computer Science from the Jozef Stefan Institute in Slovenia under the supervision of Professors Matjaz Gams and Mitja Lustrek. My thesis was recognized with the prestigious "Jožef Stefan golden emblem," indicating an outstanding PhD thesis in Slovenia. In 2021, I was honored to be included in the "list of the top 2% scientists in the world," in the category "single year impact – 2021”. As of 2023, I serve as an Associate Editor at IMWUT [(ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies)](https://dl.acm.org/journal/imwut); and as a Board Member at the [Global SNSF Fellows Network](https://www.globalsfellows.net/home). 
 
 More details about my teaching activities are available [here.](https://martingjoreski.github.io/teaching/)
+
+Funding
+======
+**XAI-PAC: Towards Explainable and Private Affective Computing**<br/>
+Source: Swiss National Science Foundation (SNSF)**<br/>
+Duration: 2024-2028<br/>
+Role: Primary investigator<br/>
+
+**SmartCHANGE: AI-based long-term health risk evaluation for driving behaviour change strategies in children and youth**<br/>
+Source: Horizon Europe and SERI (Swiss State Secretariat for Education, Research and Innovation) **<br/>
+Duration: 2024-2028<br/>
+Role: Scientific Collaborator<br/>
+
+**TRUST-ME: TRUstworthy enhancement of job SaTisfaction and productivity using Micro-sensing in work Environments**<br/>
+Source: Swiss National Science Foundation (SNSF)**<br/>
+Duration: 2024-2027<br/>
+Role: Scientific Collaborator<br/>
+
 
 Education
 ======
