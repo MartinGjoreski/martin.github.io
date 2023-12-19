@@ -14,7 +14,9 @@ My primary research focus is on Artificial Intelligence (AI), specifically in th
 
 I earned my Ph.D. in Computer Science from the Jozef Stefan Institute in Slovenia under the supervision of Professors Matjaz Gams and Mitja Lustrek. My thesis was recognized with the prestigious "Jožef Stefan golden emblem," indicating an outstanding PhD thesis in Slovenia. In 2021, I was honored to be included in the "list of the top 2% scientists in the world," in the category "single year impact – 2021”. As of 2023, I serve as an Associate Editor at IMWUT [(ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies)](https://dl.acm.org/journal/imwut); and as a Board Member at the [Global SNSF Fellows Network](https://www.globalsfellows.net/home). 
 
-More details about my teaching activities are available [here.](https://martingjoreski.github.io/teaching/)
+[Teaching activities.](https://martingjoreski.github.io/teaching/) 
+ 
+[Available student projects.](https://pc.inf.usi.ch/student-projects/)
 
 Funding
 ======
