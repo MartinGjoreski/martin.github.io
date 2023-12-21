@@ -12,7 +12,7 @@ I am an Ambizione Fellow funded by the Swiss National Science Foundation (SNSF) 
 
 My primary research focus is on Artificial Intelligence (AI), specifically in the areas of machine learning, federated learning, and explainable AI (XAI). I apply these concepts to various domains such as wearable computing, affective computing, and digital healthcare.
 
-I earned my Ph.D. in Computer Science from the Jozef Stefan Institute in Slovenia under the supervision of Professors Matjaz Gams and Mitja Lustrek. My thesis was recognized with the prestigious "Jožef Stefan golden emblem," indicating an outstanding PhD thesis in Slovenia. In 2021, I was honored to be included in the "list of the top 2% scientists in the world," in the category "single year impact – 2021”. As of 2023, I serve as an Associate Editor at IMWUT [(ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies)](https://dl.acm.org/journal/imwut); and as a Board Member at the [Global SNSF Fellows Network](https://www.globalsfellows.net/home). 
+I earned my Ph.D. in Computer Science from the Jozef Stefan Institute in Slovenia under the supervision of Professors Matjaz Gams and Mitja Lustrek. My thesis was recognized with the prestigious "Jožef Stefan golden emblem," indicating an outstanding PhD thesis in Slovenia. In 2021, I was honored to be included in the "list of the top 2% scientists in the world," in the category "single year impact – 2021”. As of 2023, I serve as an Associate Editor at [IMWUT](https://dl.acm.org/journal/imwut) (ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies); and as a Board Member at the [Global SNSF Fellows Network](https://www.globalsfellows.net/home). 
 
 [Teaching activities.](https://martingjoreski.github.io/teaching/) 
  
