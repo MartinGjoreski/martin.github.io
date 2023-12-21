@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Ambizione Fellow funded by the Swiss National Science Foundation (SNSF) and hold the position of Scientific Collaborator at the [People-Centered Computing Lab](https://pc.inf.usi.ch/). This lab is headed by Professors Marc Langheinrich and Silvia Santini within the Faculty of Informatics at the Università della Svizzera italiana (USI) in Switzerland. 
+I am an Ambizione Fellow funded by the Swiss National Science Foundation (SNSF) and holds the position of Scientific Collaborator at the [People-Centered Computing Lab](https://pc.inf.usi.ch/). This lab is headed by Professors Marc Langheinrich and Silvia Santini within the Faculty of Informatics at the Università della Svizzera italiana (USI) in Switzerland. 
 
 My primary research focus is on Artificial Intelligence (AI), specifically in the areas of machine learning, federated learning, and explainable AI (XAI). I apply these concepts to various domains such as wearable computing, affective computing, and digital healthcare.
 
