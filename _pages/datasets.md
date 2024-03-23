@@ -11,3 +11,6 @@ Datasets
   * The datasets can be used only for research purposes
   * Laboratory data (pass: cogload2015jsi): [link](https://drive.google.com/file/d/0BxLdQJAk5AoARGRZejZZX2xQUmc/view?usp=sharing)
   * Real-life data (pass: emoStress2015jsi): [link](https://drive.google.com/open?id=15UJnXKo96XN3Lke2H-nxnOksI4pkHih0)
+  * References:
+    1. Gjoreski, Martin, Mitja Luštrek, Matjaž Gams, and Hristijan Gjoreski. "Monitoring stress with a wrist device using context." Journal of biomedical informatics 73 (2017): 159-170.
+    2. Gjoreski, Martin, Hristijan Gjoreski, Mitja Luštrek, and Matjaž Gams. "Continuous stress detection using a wrist device: in laboratory and real life." In proceedings of the 2016 ACM international joint conference on pervasive and ubiquitous computing: Adjunct, pp. 1185-1193. 2016.
