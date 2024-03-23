@@ -5,8 +5,7 @@ permalink: /datasets/
 author_profile: true
 ---
 
-Datasets
-======
+
 * Labeled datasets for cognitive-load monitoring with wearable device: [link](https://martingjoreski.github.io/files/CogDatasets.rar)
   * The datasets can be used only for research purposes
   * References:
