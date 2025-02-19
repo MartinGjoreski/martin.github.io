@@ -8,7 +8,7 @@ author_profile: true
 Doctoral students
 ======
 **2024 -**   
-   - Francesco Bombassei De Bona. Working title: "Private and Explainable Affective Computing".  Faculty of Informatics, Università della svizzera italiana. Co-supervision with prof. Marc Langheinrich.
+   - [Francesco Bombassei De Bona](https://scholar.google.co.uk/citations?user=vCqZb34AAAAJ&hl=fr). Working title: "Private and Explainable Affective Computing".  Faculty of Informatics, Università della svizzera italiana. Co-supervision with prof. Marc Langheinrich.
 
 **2023 -**
    - [Dario Fenoglio](https://scholar.google.com/citations?user=CnL5RS0AAAAJ). Working title: "Federated Learning for Digital Healthcare".  Faculty of Informatics, Università della svizzera italiana. Co-supervision with prof. Marc Langheinrich.
